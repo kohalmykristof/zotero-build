@@ -19,7 +19,7 @@ if [ -z $1 ]; then
 	exit
 fi
 
-URL="https://github.com/zotero/zotero"
+URL="https://github.com/kohalmykristof/zotero"
 
 ROOTDIR=$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )
 BUILDDIR="$ROOTDIR/build"
